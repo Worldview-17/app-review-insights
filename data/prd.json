@@ -1,0 +1,78 @@
+{
+  "app_id": "839285684",
+  "generated_at": "2026-07-22T00:40:32.776959+00:00",
+  "total_requirements": 7,
+  "requirements": [
+    {
+      "req_id": "PRD-001",
+      "title": "Add customizable quick workout options for missed gym sessions",
+      "description": "Introduce a set of flexible, short-duration workout routines that users can select when they miss a regular gym session. Allow users to customize duration, intensity, and focus area to better fit their needs.",
+      "priority": "P2",
+      "source_topic": "Convenience and Flexibility",
+      "trace_review_ids": [
+        "3492973040"
+      ]
+    },
+    {
+      "req_id": "PRD-002",
+      "title": "Implement landscape/horizontal screen mode",
+      "description": "Enable the app to support landscape orientation across all screens, allowing users to view content horizontally for improved usability, especially during workouts or when using the app on a stand.",
+      "priority": "P1",
+      "source_topic": "Feature Requests",
+      "trace_review_ids": [
+        "5861603040"
+      ]
+    },
+    {
+      "req_id": "PRD-003",
+      "title": "Add animated or video demonstrations for exercises",
+      "description": "Replace static text descriptions with short animations or video clips for each exercise to help users understand proper form and movement, reducing confusion and improving exercise effectiveness.",
+      "priority": "P1",
+      "source_topic": "Feature Requests",
+      "trace_review_ids": [
+        "1333334752"
+      ]
+    },
+    {
+      "req_id": "PRD-004",
+      "title": "Provide a free tier with meaningful features",
+      "description": "Introduce a free membership tier that includes access to a limited but valuable set of features (e.g., basic workouts, progress tracking) to build trust and demonstrate value before requiring payment.",
+      "priority": "P0",
+      "source_topic": "Negative Feedback on Monetization",
+      "trace_review_ids": [
+        "11843515227",
+        "4871268841"
+      ]
+    },
+    {
+      "req_id": "PRD-005",
+      "title": "Add difficulty levels and content tailored for women",
+      "description": "Expand the content library to include difficulty levels and workout plans specifically designed for women, addressing the need for more targeted fitness options.",
+      "priority": "P2",
+      "source_topic": "Targeted for Women",
+      "trace_review_ids": [
+        "988105732"
+      ]
+    },
+    {
+      "req_id": "PRD-006",
+      "title": "Fix download failures for purchased content",
+      "description": "Resolve the issue where downloads of purchased courses or content consistently fail, ensuring users can reliably access content they have paid for. Implement robust error handling and retry mechanisms.",
+      "priority": "P0",
+      "source_topic": "Technical Issues",
+      "trace_review_ids": [
+        "11862897909"
+      ]
+    },
+    {
+      "req_id": "PRD-007",
+      "title": "Support device language detection and localization",
+      "description": "Automatically detect the user's device language settings and display the app in that language, with full localization support for major languages. Provide a manual language selector as a fallback.",
+      "priority": "P1",
+      "source_topic": "Technical Issues",
+      "trace_review_ids": [
+        "11747896360"
+      ]
+    }
+  ]
+}
