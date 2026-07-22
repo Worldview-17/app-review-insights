@@ -1,0 +1,329 @@
+{
+  "app_id": "839285684",
+  "country": "cn",
+  "total_reviews": 35,
+  "fetched_at": "2026-07-22T00:39:59.176591+00:00",
+  "cleaned_at": "2026-07-22T00:39:59.203445+00:00",
+  "dedup": {
+    "original_count": 35,
+    "duplicates_removed": 0,
+    "junk_removed": 0
+  },
+  "reviews": [
+    {
+      "id": "12284709263",
+      "user_name": "xrzxs",
+      "rating": 5,
+      "title": "love it",
+      "content": "really enjoy this",
+      "date": "2025-02-07T22:33:13-07:00",
+      "version": "7.9.0"
+    },
+    {
+      "id": "11862897909",
+      "user_name": "dixnndoaop",
+      "rating": 5,
+      "title": "下载失败",
+      "content": "我下载软件并购买后课程总是下载失败。",
+      "date": "2024-10-22T10:12:21-07:00",
+      "version": "7.6.1"
+    },
+    {
+      "id": "11843515227",
+      "user_name": "想要学的运动，都要开通会员",
+      "rating": 1,
+      "title": "都要开通会员",
+      "content": "所有项目都是要开通会员，都要钱的",
+      "date": "2024-10-17T04:56:02-07:00",
+      "version": "7.6.1"
+    },
+    {
+      "id": "11747896360",
+      "user_name": "徐爱笑。",
+      "rating": 1,
+      "title": "刚下载全都是英文",
+      "content": "下载全都是英文",
+      "date": "2024-09-21T03:50:30-07:00",
+      "version": "7.6.1"
+    },
+    {
+      "id": "10176154885",
+      "user_name": "jybvy",
+      "rating": 5,
+      "title": "Daily 7",
+      "content": "Great nice way to keep active",
+      "date": "2023-07-24T04:36:03-07:00",
+      "version": "6.6.2"
+    },
+    {
+      "id": "10162333986",
+      "user_name": "KrystalYYDS",
+      "rating": 5,
+      "title": "Good exercise for woman",
+      "content": "I have tried many apps, and this one is the best",
+      "date": "2023-07-20T11:04:40-07:00",
+      "version": "6.6.1"
+    },
+    {
+      "id": "9913567756",
+      "user_name": "哥安儿",
+      "rating": 5,
+      "title": "Awesome thanks",
+      "content": "It’s amazing APP",
+      "date": "2023-05-10T14:20:44-07:00",
+      "version": "6.4.3"
+    },
+    {
+      "id": "9875453632",
+      "user_name": "Lose your body",
+      "rating": 5,
+      "title": "非常好",
+      "content": "这个app非常好👍",
+      "date": "2023-04-29T16:18:56-07:00",
+      "version": "6.4.1"
+    },
+    {
+      "id": "8536674076",
+      "user_name": "学号1953760",
+      "rating": 5,
+      "title": "简单粗暴好用",
+      "content": "新手进去很简单，动作容易模仿，一组30秒，容易上手，音乐也好听。8岁儿子强烈要求购买",
+      "date": "2022-04-05T21:03:00-07:00",
+      "version": "5.10.0"
+    },
+    {
+      "id": "7636123842",
+      "user_name": "kyliekleinn",
+      "rating": 5,
+      "title": "Kylie",
+      "content": "Best app for work out at home!",
+      "date": "2021-07-30T10:13:48-07:00",
+      "version": "5.8.1"
+    },
+    {
+      "id": "6635843584",
+      "user_name": "kabacar",
+      "rating": 5,
+      "title": "Very good",
+      "content": "The best workout app I’ve used so far",
+      "date": "2020-11-11T22:55:19-07:00",
+      "version": "5.4.16"
+    },
+    {
+      "id": "6400700303",
+      "user_name": "jelly2102",
+      "rating": 5,
+      "title": "I really enjoyed my first day doing exercises.",
+      "content": "It was my first day doing this in this app and I really enjoyed it.. I never do exercises but today I enjoyed doing it..",
+      "date": "2020-09-06T02:49:56-07:00",
+      "version": "5.4.15"
+    },
+    {
+      "id": "6201096293",
+      "user_name": "Tigffhhuijiohgvcdd",
+      "rating": 5,
+      "title": "A Great app!",
+      "content": "Excellent !!!",
+      "date": "2020-07-15T07:35:39-07:00",
+      "version": "5.4.10"
+    },
+    {
+      "id": "6052795032",
+      "user_name": "Nandia from China",
+      "rating": 5,
+      "title": "Thank you",
+      "content": "Omg 😮 amazing result.... I didn’t believe it. But now I lost almost 11kg with this app app and keto... I just wanna say thank you guys. I hope everyone download this app u want losse weight.",
+      "date": "2020-06-08T18:22:59-07:00",
+      "version": "5.4.8"
+    },
+    {
+      "id": "6041883396",
+      "user_name": "venus6574",
+      "rating": 5,
+      "title": "非常简单实用",
+      "content": "我不知道国内流行的keep怎么样，但是这个一用非常容易上手，一个小时下来可以做七个单元，有效运动。然后，右下角点开就可以横屏呀，中间点又可以暂停，左右点可以上一个或下一个，做完喜欢的可以save",
+      "date": "2020-06-06T02:00:53-07:00",
+      "version": "5.4.8"
+    },
+    {
+      "id": "5861603040",
+      "user_name": "qwdvuubibhu",
+      "rating": 5,
+      "title": "good",
+      "content": "超好用啊，就什么时候能有个横屏呢",
+      "date": "2020-04-25T04:16:09-07:00",
+      "version": "5.4.1"
+    },
+    {
+      "id": "5125126227",
+      "user_name": "北部方",
+      "rating": 5,
+      "title": "perfect app",
+      "content": "My favorite app for morning exercises!",
+      "date": "2019-11-11T16:17:08-07:00",
+      "version": "4.3.0"
+    },
+    {
+      "id": "5097045343",
+      "user_name": "000虫儿飞",
+      "rating": 5,
+      "title": "great app",
+      "content": "User friendly",
+      "date": "2019-11-06T22:03:30-07:00",
+      "version": "4.3.0"
+    },
+    {
+      "id": "4871268841",
+      "user_name": "李欣娣",
+      "rating": 1,
+      "title": "一点都不好",
+      "content": "垃圾东西 骗钱的 大家不要下载",
+      "date": "2019-10-01T18:16:29-07:00",
+      "version": "4.1.1"
+    },
+    {
+      "id": "4192535329",
+      "user_name": "Jayelle_lai",
+      "rating": 5,
+      "title": "Excellent app",
+      "content": "Clear instructions. Good for meeting workout targets. Fierce exercises.",
+      "date": "2019-05-22T12:09:31-07:00",
+      "version": "3.5.2"
+    },
+    {
+      "id": "4028340302",
+      "user_name": "Afnan Al-Asbahi",
+      "rating": 5,
+      "title": "Lovely",
+      "content": "Awesome and useful",
+      "date": "2019-04-18T06:24:35-07:00",
+      "version": "3.5.0"
+    },
+    {
+      "id": "3492973040",
+      "user_name": "Yayulia",
+      "rating": 5,
+      "title": "Convenient",
+      "content": "I found this app is very convenient. If I miss my workout at gym, I just can choose 2-3 sets from app, that will be good. It has different workouts for different levels.",
+      "date": "2018-12-04T08:29:19-07:00",
+      "version": "3.4.2"
+    },
+    {
+      "id": "3028449825",
+      "user_name": "Emilius33",
+      "rating": 5,
+      "title": "Good free app",
+      "content": "I really enjoy doing workouts with this free app. The range of different workouts and goals is pretty cool!",
+      "date": "2018-08-06T20:45:48-07:00",
+      "version": "3.2.3"
+    },
+    {
+      "id": "3019148775",
+      "user_name": "tejxp",
+      "rating": 5,
+      "title": "It rocks",
+      "content": "Amazing app,love it",
+      "date": "2018-08-04T21:12:47-07:00",
+      "version": "3.2.3"
+    },
+    {
+      "id": "2210969485",
+      "user_name": "大佳佳佳",
+      "rating": 5,
+      "title": "每天打卡收获多多",
+      "content": "简单好用好评",
+      "date": "2018-02-15T06:20:16-07:00",
+      "version": "3.0.0"
+    },
+    {
+      "id": "1354309664",
+      "user_name": "龙年@大吉",
+      "rating": 5,
+      "title": "不错",
+      "content": "可以见此就会有效果",
+      "date": "2016-03-27T03:04:51-07:00",
+      "version": "1.1"
+    },
+    {
+      "id": "1333334752",
+      "user_name": "杨柳扶风",
+      "rating": 5,
+      "title": "不错。",
+      "content": "动作有动画或者视频就好了。有一些动作不知道怎么做，只能按自己理解了。",
+      "date": "2016-02-15T03:50:06-07:00",
+      "version": "1.1"
+    },
+    {
+      "id": "1171657357",
+      "user_name": "lch727",
+      "rating": 5,
+      "title": "很不错",
+      "content": "不会有视频指导，每次都出好多汗",
+      "date": "2015-03-22T02:15:30-07:00",
+      "version": "1.1"
+    },
+    {
+      "id": "1124547437",
+      "user_name": "MingChamimi",
+      "rating": 5,
+      "title": "七分钟真不短",
+      "content": "很累呀 很适合平时不运动的人",
+      "date": "2015-01-04T07:01:53-07:00",
+      "version": "1.1"
+    },
+    {
+      "id": "1117921137",
+      "user_name": "flora1984",
+      "rating": 5,
+      "title": "useful",
+      "content": "interesting and useful for me",
+      "date": "2014-12-23T03:54:55-07:00",
+      "version": "1.1"
+    },
+    {
+      "id": "1081072507",
+      "user_name": "春野落英",
+      "rating": 4,
+      "title": "易坚持",
+      "content": "冬天做做还能保暖",
+      "date": "2014-10-15T22:05:04-07:00",
+      "version": "1.0"
+    },
+    {
+      "id": "1048345005",
+      "user_name": "dudaodao",
+      "rating": 5,
+      "title": "Amazing",
+      "content": "This is an amazing lovely app !!\nHelp me to get back in shape and to get a good habit nice routine , nice design, nice idea , nice size , I need it n I love it so much !! \nAnd the movements here is not that easy so needs time to train and practice more and day by day !!",
+      "date": "2014-08-17T08:17:09-07:00",
+      "version": "1.0"
+    },
+    {
+      "id": "1020864871",
+      "user_name": "yvonneleaf",
+      "rating": 5,
+      "title": "💪💪💪",
+      "content": "方便实用",
+      "date": "2014-07-02T06:18:36-07:00",
+      "version": "1.0"
+    },
+    {
+      "id": "988105732",
+      "user_name": "针对woman",
+      "rating": 5,
+      "title": "难得的",
+      "content": "针对woman的难度",
+      "date": "2014-05-05T06:09:19-07:00",
+      "version": "1.0"
+    },
+    {
+      "id": "966180840",
+      "user_name": "Quuuuemy",
+      "rating": 5,
+      "title": "nice app",
+      "content": "Good for fitness, and even losing weight❤️👍",
+      "date": "2014-03-26T21:50:21-07:00",
+      "version": "1.0"
+    }
+  ]
+}
