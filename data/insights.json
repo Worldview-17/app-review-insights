@@ -1,0 +1,171 @@
+{
+  "app_id": "839285684",
+  "generated_at": "2026-07-22T00:40:19.930851+00:00",
+  "total_topics": 8,
+  "topics": [
+    {
+      "topic": "Convenience and Flexibility",
+      "issues": [
+        {
+          "issue": "Limited flexibility for missed workouts",
+          "severity": "low",
+          "summary": "Users appreciate the convenience of quick workout options when they miss a gym session, but the app may not offer enough variety or customization for such scenarios.",
+          "evidence": [
+            "3492973040"
+          ],
+          "sample_count": 1,
+          "avg_rating": 5.0
+        }
+      ]
+    },
+    {
+      "topic": "Ease of Use",
+      "issues": [
+        {
+          "issue": "App is intuitive and easy to start for new users",
+          "severity": "low",
+          "summary": "Users find the app straightforward to begin with, with simple instructions and easy-to-follow exercises. The interface is praised for its clarity and ease of navigation.",
+          "evidence": [
+            "8536674076",
+            "6041883396",
+            "2210969485",
+            "1124547437",
+            "1081072507"
+          ],
+          "sample_count": 5,
+          "avg_rating": 4.8
+        }
+      ]
+    },
+    {
+      "topic": "Effectiveness and Results",
+      "issues": [
+        {
+          "issue": "App delivers significant weight loss results for some users.",
+          "severity": "low",
+          "summary": "A single review reports a highly positive outcome, losing 11kg with the app and keto, indicating strong effectiveness for that user. However, with only one review, it is not representative of broader user experience.",
+          "evidence": [
+            "6052795032"
+          ],
+          "sample_count": 1,
+          "avg_rating": 5.0
+        }
+      ]
+    },
+    {
+      "topic": "Feature Requests",
+      "issues": [
+        {
+          "issue": "Users request landscape/horizontal screen mode for better usability",
+          "severity": "medium",
+          "summary": "A user explicitly requests a landscape/horizontal screen mode, indicating that the current portrait-only orientation is limiting for their use case. This feature would improve the app's flexibility and user experience.",
+          "evidence": [
+            "5861603040"
+          ],
+          "sample_count": 1,
+          "avg_rating": 5.0
+        },
+        {
+          "issue": "Users want animated or video demonstrations for actions/exercises",
+          "severity": "medium",
+          "summary": "A user finds it difficult to perform certain actions because only static descriptions are provided. They request animations or videos to better understand how to execute movements correctly, which would reduce confusion and improve learning.",
+          "evidence": [
+            "1333334752"
+          ],
+          "sample_count": 1,
+          "avg_rating": 5.0
+        }
+      ]
+    },
+    {
+      "topic": "Negative Feedback on Monetization",
+      "issues": [
+        {
+          "issue": "All features require a paid membership, making the app feel like a scam.",
+          "severity": "high",
+          "summary": "Users are frustrated that nearly every feature is locked behind a membership paywall, leading to a perception that the app is deceptive or purely profit-driven. This creates a poor user experience and erodes trust.",
+          "evidence": [
+            "11843515227",
+            "4871268841"
+          ],
+          "sample_count": 2,
+          "avg_rating": 1.0
+        }
+      ]
+    },
+    {
+      "topic": "Positive General Feedback",
+      "issues": [
+        {
+          "issue": "Users find the app effective for building workout habits and staying active.",
+          "severity": "low",
+          "summary": "While the overall sentiment is positive, there is no explicit pain point; users consistently praise the app for helping them establish routines and achieve fitness goals. The evidence shows high satisfaction with no reported issues.",
+          "evidence": [
+            "12284709263",
+            "10176154885",
+            "10162333986",
+            "9913567756",
+            "9875453632",
+            "7636123842",
+            "6635843584",
+            "6400700303",
+            "6201096293",
+            "5125126227",
+            "5097045343",
+            "4192535329",
+            "4028340302",
+            "3019148775",
+            "1354309664",
+            "1171657357",
+            "1117921137",
+            "1048345005",
+            "1020864871",
+            "966180840"
+          ],
+          "sample_count": 20,
+          "avg_rating": 5.0
+        }
+      ]
+    },
+    {
+      "topic": "Targeted for Women",
+      "issues": [
+        {
+          "issue": "Limited content or difficulty levels specifically designed for women",
+          "severity": "medium",
+          "summary": "Users express that the app lacks sufficient content or appropriate difficulty levels tailored to women, leading to dissatisfaction. The single review indicates a desire for more targeted features.",
+          "evidence": [
+            "988105732"
+          ],
+          "sample_count": 1,
+          "avg_rating": 5.0
+        }
+      ]
+    },
+    {
+      "topic": "Technical Issues",
+      "issues": [
+        {
+          "issue": "Download failures prevent users from accessing purchased content",
+          "severity": "high",
+          "summary": "Users report that after purchasing the app or courses, downloads consistently fail, rendering the content inaccessible. This directly impacts the core value proposition and leads to frustration.",
+          "evidence": [
+            "11862897909"
+          ],
+          "sample_count": 1,
+          "avg_rating": 5.0
+        },
+        {
+          "issue": "App displays content in English instead of the user's expected language",
+          "severity": "medium",
+          "summary": "Upon download, the app shows all text in English, which is not the user's preferred language. This creates a poor first impression and usability barrier for non-English speakers.",
+          "evidence": [
+            "11747896360"
+          ],
+          "sample_count": 1,
+          "avg_rating": 1.0
+        }
+      ]
+    }
+  ]
+}
