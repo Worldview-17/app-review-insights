@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files (generated, but kept for demo)
+# data/*.json
+
+# Logs
+*.log
+mcp_services.log
+
+# MCP / temp
+.claude/
+custom_python_server.py
+scheduler_server.py
+windows_desktop_server.py
+tasks.db
