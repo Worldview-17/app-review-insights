@@ -1,0 +1,114 @@
+{
+  "app_id": "839285684",
+  "generated_at": "2026-07-22T00:40:32.776959+00:00",
+  "total_test_cases": 7,
+  "test_cases": [
+    {
+      "tc_id": "TC-001",
+      "title": "Verify quick workout customization options are available and functional",
+      "steps": [
+        "Open the app and navigate to the 'Quick Workout' section.",
+        "Select a workout duration (e.g., 10, 15, 20 minutes).",
+        "Choose an intensity level (low, medium, high).",
+        "Select a focus area (e.g., full body, upper body, lower body).",
+        "Start the workout and verify it follows the selected parameters."
+      ],
+      "expected_result": "The app generates a workout matching the user's selections, and the workout runs without errors.",
+      "linked_req_id": "PRD-001",
+      "trace_review_ids": [
+        "3492973040"
+      ]
+    },
+    {
+      "tc_id": "TC-002",
+      "title": "Verify landscape mode works on all main screens",
+      "steps": [
+        "Launch the app in portrait mode.",
+        "Rotate the device to landscape orientation.",
+        "Navigate through the home screen, workout list, and exercise detail screens.",
+        "Ensure all UI elements are properly resized and no content is cut off."
+      ],
+      "expected_result": "The app seamlessly switches to landscape orientation, and all screens display correctly without overlapping or missing elements.",
+      "linked_req_id": "PRD-002",
+      "trace_review_ids": [
+        "5861603040"
+      ]
+    },
+    {
+      "tc_id": "TC-003",
+      "title": "Verify exercise animations/videos play correctly",
+      "steps": [
+        "Open an exercise detail screen that previously had static text.",
+        "Check that an animation or video is displayed.",
+        "Tap the play button and observe the demonstration.",
+        "Verify that the animation/video loops or has a replay option."
+      ],
+      "expected_result": "The exercise is demonstrated via animation or video, playing smoothly with clear instructions.",
+      "linked_req_id": "PRD-003",
+      "trace_review_ids": [
+        "1333334752"
+      ]
+    },
+    {
+      "tc_id": "TC-004",
+      "title": "Verify free tier offers meaningful features without payment",
+      "steps": [
+        "Install the app and sign up without subscribing.",
+        "Access the free tier features (e.g., basic workouts, progress tracking).",
+        "Attempt to use a premium feature and verify a clear upgrade prompt appears.",
+        "Complete a basic workout and check that progress is saved."
+      ],
+      "expected_result": "Free tier users can access a set of valuable features, and premium features are clearly marked but not accessible without payment.",
+      "linked_req_id": "PRD-004",
+      "trace_review_ids": [
+        "11843515227",
+        "4871268841"
+      ]
+    },
+    {
+      "tc_id": "TC-005",
+      "title": "Verify women-specific content and difficulty levels are available",
+      "steps": [
+        "Navigate to the workout library.",
+        "Filter or browse by 'Women' category.",
+        "Select a workout plan labeled for women.",
+        "Check that difficulty levels (beginner, intermediate, advanced) are available."
+      ],
+      "expected_result": "Workout plans and difficulty levels tailored for women are present and functional.",
+      "linked_req_id": "PRD-005",
+      "trace_review_ids": [
+        "988105732"
+      ]
+    },
+    {
+      "tc_id": "TC-006",
+      "title": "Verify purchased content downloads successfully",
+      "steps": [
+        "Purchase a course or workout pack.",
+        "Navigate to the 'My Purchases' section.",
+        "Tap the download button for the purchased content.",
+        "Wait for the download to complete and then open the content."
+      ],
+      "expected_result": "The content downloads without errors and is accessible offline.",
+      "linked_req_id": "PRD-006",
+      "trace_review_ids": [
+        "11862897909"
+      ]
+    },
+    {
+      "tc_id": "TC-007",
+      "title": "Verify app language matches device language setting",
+      "steps": [
+        "Change the device language to a supported language (e.g., Spanish, French).",
+        "Launch the app.",
+        "Check that all UI text, menus, and instructions are displayed in the device language.",
+        "Navigate to settings and verify a manual language selector is available."
+      ],
+      "expected_result": "The app automatically displays in the device's language, and users can manually switch languages if needed.",
+      "linked_req_id": "PRD-007",
+      "trace_review_ids": [
+        "11747896360"
+      ]
+    }
+  ]
+}
